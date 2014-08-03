@@ -414,6 +414,19 @@ hr {
   }
 }
 
+
+$onor-2048-tile2: url('//res.cloudinary.com/onor-net/image/upload/v1398207610/philz-shadow-2_pmjpsp.jpg');
+$onor-2048-tile4: url('//res.cloudinary.com/onor-net/image/upload/v1398207610/philz-shadow-4_cocoou.jpg');
+$onor-2048-tile8: url('//res.cloudinary.com/onor-net/image/upload/v1398207608/philz-shadow-8_ojt2up.jpg');
+$onor-2048-tile16: url('//res.cloudinary.com/onor-net/image/upload/v1398207607/philz-shadow-16_qrmd5q.jpg');
+$onor-2048-tile32: url('//res.cloudinary.com/onor-net/image/upload/v1398209448/8bchb_thsimd.gif');
+$onor-2048-tile64: url('//res.cloudinary.com/onor-net/image/upload/v1398209447/8bcgb_vpneuh.gif');
+$onor-2048-tile128:  url('//res.cloudinary.com/onor-net/image/upload/v1398209889/gif_pe0ink.gif');
+$onor-2048-tile256: url('//res.cloudinary.com/onor-net/image/upload/v1398210583/8bcva_qkxqco.gif');
+$onor-2048-tile512: url('//res.cloudinary.com/onor-net/image/upload/v1398211147/gif-1_i8vmvt.gif');
+$onor-2048-tile1024: url('//res.cloudinary.com/onor-net/image/upload/v1398296863/gif-2_caipcr.gif');
+$onor-2048-tile2048: url('//res.cloudinary.com/onor-net/image/upload/v1398297785/gif-3_aqpby7.gif');
+
 @include keyframes(appear) {
   0% {
     opacity: 0;

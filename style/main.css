@@ -307,13 +307,13 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da;
+    background: url('http://res.cloudinary.com/onor-net/image/upload/v1398207610/philz-shadow-2_pmjpsp.jpg');
     text-align: center;
     font-weight: bold;
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: url('http://res.cloudinary.com/onor-net/image/upload/v1398207610/philz-shadow-2_pmjpsp.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
@@ -372,7 +372,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #3c3a32;
+    background: url('http://res.cloudinary.com/onor-net/image/upload/v1398207610/philz-shadow-2_pmjpsp.jpg');
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
